@@ -1,0 +1,7 @@
+* { font-family: Arial, sans-serif; }
+body { background-color: #fff8f0; max-width: 800px; margin: 0 auto; padding: 20px; }
+h1 { color: #d35400; text-align: center; font-size: 48px; border-bottom: 3px solid #d35400; padding-bottom: 15px; }
+ul { list-style: none; padding: 0; }
+li { background: white; margin: 15px 0; padding: 20px; border-radius: 10px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+a { color: #e67e22; text-decoration: none; font-size: 20px; font-weight: bold; }
+a:hover { color: #d35400; text-decoration: underline; }
